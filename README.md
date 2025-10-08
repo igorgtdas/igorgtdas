@@ -7,8 +7,8 @@
 
 ## 🚀 Sobre mim
 - 🔧 Experiência em **planejamento de manutenção** e **engenharia de confiabilidade** (2 anos focados em planejamento e analytics).  
-- 📈 Projetos em **Weibull, Análise de Sobrevivência, Séries Temporais** e **Clusterização de falhas reincidentes**.  
-- 🤖 Construindo modelos de **Redes Neurais (TensorFlow/Keras)** para classificação de eventos e previsão de HH.  
+- 📈 Análises preditivas com **Weibull, Análise de Sobrevivência, Séries Temporais** e **Clusterização de falhas reincidentes**.  
+- 🤖 Projetos baseado em modelos de **Redes Neurais (TensorFlow/Keras)** para classificação de eventos e previsão de HH.  
 - 🌍 Atualmente expandindo minha atuação em **Data Science** na **Future Secure AI**.  
 - 🌎 Inglês em evolução, praticando conversação técnica e corporativa.
 
