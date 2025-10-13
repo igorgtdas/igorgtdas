@@ -38,7 +38,7 @@
 ---
 
 ## 📫 Vamos conversar?
-- 🌐 [LinkedIn](www.linkedin.com/in/igorgtdas)  
+- 🌐 [LinkedIn]("www.linkedin.com/in/igorgtdas")  
 - 📧 igor_goncalvestomaz@hotmail.com  
 
 <!---
