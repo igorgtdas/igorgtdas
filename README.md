@@ -1,15 +1,15 @@
 # 👋 Olá, eu sou o Igor Gonçalves
 
-🎯 **Cientista de Dados** na [Future Secure AI](https://www.futuresecure.ai)  
+**Cientista de Dados** na [Future Secure AI](https://www.futuresecure.ai)  
 ✈️ **Reliability Engineering Analyst** com 6 anos de experiência na aviação, aplicando **Machine Learning** e **estatística** para manutenção aeronáutica e além.
 
 ---
 
-## 🚀 Sobre mim
-- 🔧 Experiência em **planejamento de manutenção** e **engenharia de confiabilidade** (2 anos focados em planejamento e analytics).  
-- 📈 Análises preditivas com **Weibull, Análise de Sobrevivência, Séries Temporais** e **Clusterização de falhas reincidentes**.  
-- 🤖 Projetos baseado em modelos de **Redes Neurais (TensorFlow/Keras)** para classificação de eventos e previsão de HH.  
-- 🌍 Atualmente expandindo minha atuação em **Data Science** na **Future Secure AI**.  
+## Sobre mim
+-  Experiência em **planejamento de manutenção** e **engenharia de confiabilidade** (2 anos focados em planejamento e analytics).  
+-  Análises preditivas com **Weibull, Análise de Sobrevivência, Séries Temporais** e **Clusterização de falhas reincidentes**.  
+-  Projetos baseado em modelos de **Redes Neurais (TensorFlow/Keras)** para classificação de eventos e previsão de HH.  
+-  Atualmente expandindo minha atuação em **Data Science** na **Future Secure AI**.  
 - 🌎 Inglês em evolução, praticando conversação técnica e corporativa.
 
 ---
@@ -38,11 +38,9 @@
 ---
 
 ## 📫 Vamos conversar?
-- 🌐 [LinkedIn](https://www.linkedin.com/igorgtdas)  
+- 🌐 [LinkedIn](www.linkedin.com/in/igorgtdas)  
 - 📧 igor_goncalvestomaz@hotmail.com  
 
----
-✨ “Transformando dados em insights para tornar a manutenção mais preditiva e confiável — agora também aplicando IA em escala global.”
 <!---
 igorgtdas/igorgtdas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
