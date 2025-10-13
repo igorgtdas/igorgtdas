@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Igor Gonçalves
+# Olá, eu sou o Igor Gonçalves
 
 **- Cientista de Dados** na [Future Secure AI](https://www.futuresecure.ai)  
 **- Reliability Engineering Analyst** com 6 anos de experiência na aviação, aplicando **Machine Learning** e **estatística** para manutenção aeronáutica e além.
