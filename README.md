@@ -9,8 +9,8 @@
 -  Experiência em **planejamento de manutenção** e **engenharia de confiabilidade** (2 anos focados em planejamento e analytics).  
 -  Análises preditivas com **Weibull, Análise de Sobrevivência, Séries Temporais** e **Clusterização de falhas reincidentes**.  
 -  Projetos baseado em modelos de **Redes Neurais (TensorFlow/Keras)** para classificação de eventos e previsão de HH.  
--  Atualmente expandindo minha atuação em **Data Science** na **Future Secure AI**.  
-- 🌎 Inglês em evolução, praticando conversação técnica e corporativa.
+-  Atualmente expandindo minha atuação em **Data Science / Engenheiro de IA** na **Future Secure AI**.  
+- 🌎 Inglês em nível B2, praticando conversação técnica e corporativa profissionalmente desde outubro de 2025.
 
 ---
 
@@ -21,6 +21,12 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0F172A?style=for-the-badge&logo=chainlink&logoColor=white)
+![Flowise](https://img.shields.io/badge/Flowise-7C3AED?style=for-the-badge&logo=flowchart&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
 
 ---
 
